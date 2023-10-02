@@ -1,3 +1,3 @@
-# git-test
+# Test Git
 
-Hello.
+Nous travaillons sur les branches de Git !
